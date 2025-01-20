@@ -1,6 +1,3 @@
-.header {
-}
-
 .header_wrapper {
   height: 85px;
   width: 100%;
@@ -9,8 +6,6 @@
   align-items: center;
 }
 
-.header_nav {
-}
 .header_nav-list {
   display: flex;
   justify-content: start;
@@ -18,8 +13,7 @@
 
   column-gap: min(70px, 4vw);
 }
-.header_nav-item {
-}
+
 .header_nav-link {
   font-size: 20px;
   font-weight: 500;
